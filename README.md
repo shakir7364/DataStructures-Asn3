@@ -1,2 +1,4 @@
-# DataStructures-Asn3
- Data Structures Assignment 3
+# Data Structures Assignment 3
+This assignment builds upon the last one by adding an LList class and updating the AList class. The LList class is designed to mimic a linked list and its common functions. These include adding, getting, setting, and removing a node at given position, finding a node between two positions, clearing list, converting toArray(), and checking if list isEmpty().
+
+Additions to the Alist class include: a resize() method to resize stored array, a method to getCapacity() of the array, an equals() method to compare two array lists, and an update to the add() methods to include the resize() method.
